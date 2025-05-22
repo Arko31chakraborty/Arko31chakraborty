@@ -1,6 +1,6 @@
-Hello, I'm ARKO CHAKRABORTY , a passionate DATA ANALYTIST from India
+Hello, I'm ARKO CHAKRABORTY ,  from India
 
-🔭 I’m currently working on DATA ANALYTIST projects.<br>🌱 I’m currently learning PHYTHON SQL EXCEL  POWERBI.<br>📫 How to reach me: LinkedIn<br>⚡ Fun fact: I love exploring new tech and watching web series in my free time! 🎬🚀
+🌱 I’m currently learning PHYTHON SQL EXCEL  .<br>📫 How to reach me: LinkedIn<br>⚡ Fun fact: I love exploring new tech and watching web series in my free time! 🎬🚀
 
 
 ## 🌐 Socials:
